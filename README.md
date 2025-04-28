@@ -4,6 +4,7 @@ A collection of Terraform example projects to learn and experiment with Infrastr
 
 ## Repository Structure
 
+```
 terraform-playground/
 ├── 01- .../
 │   ├── main.tf
@@ -15,6 +16,7 @@ terraform-playground/
 ├── 03- .../
 │   └── ...
 └── README.md
+```
 
 Each subfolder contains a standalone Terraform example with its own state and documentation.
 
